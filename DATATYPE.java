@@ -15,26 +15,25 @@
  */
 
 
- class DATATYPE {
-    DATATYPE() {
+ public class DATATYPE {
+
+   public DATATYPE() {
+
+      String name = "TAYO";
+      long amount = 787823478234l;
+      int age = 24;
+      short price = 6372;
+      char a = 'z';
+      boolean isActive = true; 
+      float rice = 5.7f;
+      int convert = (int) rice;
+      if(amount > age  )
+        System.out.println(true);
+       else
+        System.out.println(false);
+      System.out.println(convert);
+
     }
  
-    public static void main(String[] args){
-       String name = "TAYO";
-       long amount = 787823478234l;
-       int age = 24;
-       short price = 6372;
-       char a = 'z';
-       boolean isActive = true; 
-       float rice = 5.7f;
-       int convert = (int) rice;
-
-       if(amount > age  )
-         System.out.println(true);
-        else
-         System.out.println(false);
-       System.out.println(convert);
-    }
-    Conditional_Statement cs = new Conditional_Statement();
- }
+ };
  
