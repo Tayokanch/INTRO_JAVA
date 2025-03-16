@@ -7,6 +7,9 @@ public class Main
         Calculator calc = new Calculator();
         int result = calc.add(65,72);
         System.out.println(result);
+        Arrayy arr = new Arrayy();
+        ForEach product = new ForEach();
+        
 
 
     }
