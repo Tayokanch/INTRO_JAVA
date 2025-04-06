@@ -1,0 +1,13 @@
+STATIC = This means you dont need to create an OBJECT for the class before you call them
+
+***STATIC METHOD***
+This can be called by its class
+
+***NON-STATIC METHOD***
+This can be called by the new object of the class
+
+
+PRIVATE = This means anything with private keyword cannot be used outside of the class, including and instance/object of the class
+
+THIS = its a keyword given to an instance Variable i.e a variable declared inside a class
+        and this is to differentiate btw the variable declared inside a method e.g method args

@@ -13,9 +13,9 @@
     Boolean - true or false
  
  */
+@SuppressWarnings("unused")
 
-
- public class DATATYPE {
+public class DATATYPE { 
 
    public DATATYPE() {
 
@@ -33,7 +33,6 @@
         System.out.println(false);
       System.out.println(convert);
 
-    }
- 
- };
+   }
+};
  

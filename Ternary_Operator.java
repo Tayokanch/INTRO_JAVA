@@ -1,3 +1,5 @@
+@SuppressWarnings("unused")
+
 public class Ternary_Operator {
     Ternary_Operator(){
         int age = 18;
