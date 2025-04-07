@@ -1,0 +1,4 @@
+*** TO INHERIT ****
+we use the keyword (extends)
+- When a class is extends to another class (Single Level Inheritance)
+- When  (class C) extends to (class B) and ( class B) extends to (class A) = Multilevel Inheritance  

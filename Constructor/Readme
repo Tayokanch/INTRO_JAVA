@@ -1,0 +1,7 @@
+What is a Constructor
+
+** Constructor is a special Method, 
+** It has the same name as the Class 
+** And doesn't return anything
+NOTE:
+Anything the Instance of a class is clalled, it automatically calls the Constructor
