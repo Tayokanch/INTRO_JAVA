@@ -11,3 +11,5 @@ PRIVATE = This means anything with private keyword cannot be used outside of the
 
 THIS = its a keyword given to an instance Variable i.e a variable declared inside a class
         and this is to differentiate btw the variable declared inside a method e.g method args
+
+FINAL = This can be used for variable, method, and class

@@ -1,6 +1,7 @@
 import Constructor.User;
-import OOP.AdvCalc;
-import OOP.VeryAdvCalc;
+import OOP.*;
+import OOP.SUPER.*;
+import OOP.POLYMORPHISM.*;
 @SuppressWarnings("unused")
 
 public class Main 
@@ -28,6 +29,14 @@ public class Main
         double power = calc.power(4, 5);
         System.out.println(add + " " + sub + " " + multi + " " + division);
         System.out.println("This is the power :" + power);
+        B newB = new B();
+        System.out.println(newB);
+
+        Read data = new Write();
+        data = new Read();
+        
+        data.read();
+       
 
 
 
